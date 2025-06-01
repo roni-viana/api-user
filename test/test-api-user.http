@@ -1,0 +1,19 @@
+### 1
+POST http://localhost:3000/users/create
+Content-Type: application/json
+
+{
+  "name": "Ronildo",
+  "email": "ronildo@email.com"
+}
+
+### 2
+GET http://localhost:3000/users
+
+### 3
+# Substitua abaixo pelo ID real do usuário retornado ao criar/listar
+GET http://localhost:3000/users/ID_DO_USUARIO
+
+### 4
+# Substitua abaixo pelo ID real do usuário retornado ao criar/listar
+DELETE http://localhost:3000/users/b84e87d8-3350-44da-8697-ba006095d3bb
