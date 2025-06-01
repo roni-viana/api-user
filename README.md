@@ -1,3 +1,6 @@
+<p>
+  API com nodeJS e nestJS que permite armazenar usuários (nome e e-mail), consultar todos os usuário, ler apenas um e excluir um usuário,   usando como armazenamento apenas a memória.
+</p>
 <p align="center">
   Aluno: Ronildo Mendes Viana
   e-mail: ronildo.viana@aluno.faculdadeimpacta.com.br
